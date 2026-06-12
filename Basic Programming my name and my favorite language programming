@@ -1,9 +1,0 @@
-#include <stdio.h>
-int main(){
-
-
-    printf("halo nama sy glendon dan saya sangat suka bahasa C");
-
-    return 0;
-
-}
